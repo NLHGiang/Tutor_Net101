@@ -75,6 +75,7 @@
 
 #endregion
 
+#region TryParse
 // ref, out
 //string testString = "hahaha";
 //float testFloat = 1.5f;
@@ -91,3 +92,17 @@
 
 //Console.WriteLine("Parse: " + float.Parse(testString));
 //Console.WriteLine("Convert: " + Convert.ToSingle(testString));
+#endregion
+
+#region ReadKey
+Console.WriteLine("Press 'F' to show respect");
+ConsoleKey pressKey = Console.ReadKey().Key;
+
+if (pressKey == ConsoleKey.F)
+{
+    Console.WriteLine("\nRESPECT +1");
+}
+
+Console.WriteLine("\nTHE END!");
+
+#endregion
