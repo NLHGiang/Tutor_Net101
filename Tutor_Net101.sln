@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutor_Net101", "Tutor_Net101\Tutor_Net101.csproj", "{8F0DE124-1A4B-49E8-AF65-D4A918260F49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutor_Net101_B4", "Tutor_Net101_B4\Tutor_Net101_B4.csproj", "{678BCDD5-1E0E-4CEA-8C47-64AF26442969}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutor_Net101_B4", "Tutor_Net101_B4\Tutor_Net101_B4.csproj", "{678BCDD5-1E0E-4CEA-8C47-64AF26442969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutor_Net101_B5", "Tutor_Net101_B5\Tutor_Net101_B5.csproj", "{C2B03EDD-5856-47F2-A8BD-CF86ED587D9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{678BCDD5-1E0E-4CEA-8C47-64AF26442969}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{678BCDD5-1E0E-4CEA-8C47-64AF26442969}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{678BCDD5-1E0E-4CEA-8C47-64AF26442969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B03EDD-5856-47F2-A8BD-CF86ED587D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B03EDD-5856-47F2-A8BD-CF86ED587D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B03EDD-5856-47F2-A8BD-CF86ED587D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B03EDD-5856-47F2-A8BD-CF86ED587D9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
